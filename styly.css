@@ -6,3 +6,11 @@ img {
   width: 40%;
   height: auto;
 }
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: initial;
+  color: beige;
+}
+div{
+  padding-left: 60px;
+}
